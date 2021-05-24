@@ -1,3 +1,5 @@
+#Todo
+Pytorch 1.5>= compatible / Pytorch lightning friendly (edit renderer.py)
 # Neural 3D Mesh Renderer (CVPR 2018)
 
 This repo contains a PyTorch implementation of the paper [Neural 3D Mesh Renderer](http://hiroharu-kato.com/projects_en/neural_renderer.html) by Hiroharu Kato, Yoshitaka Ushiku, and Tatsuya Harada.
